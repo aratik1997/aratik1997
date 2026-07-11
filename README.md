@@ -1,31 +1,25 @@
 <!--
 ======================================================================
-  ATIKUR RAHMAN  ·  GITHUB PROFILE README
+  ATIKUR RAHMAN  ·  github.com/aratik1997
   Palette: Blue · Cyan · Purple · Black
 
-  BEFORE YOU COMMIT — replace these placeholders:
-    • atikur-rahman     → your real GitHub username (find & replace all)
-    • project-one/two/three/four → real pinned repo names
-    • email / linkedin / x / facebook / portfolio URLs in "Let's Connect"
-
-  NOTE:  github-readme-stats.vercel.app is currently PAUSED (503).
-         Below I've routed around it. If you later self-host that
-         service on your own Vercel, replace every occurrence of
-         "YOUR-GRS-DOMAIN.vercel.app" with your Vercel domain and
-         uncomment the "SELF-HOSTED STATS" blocks.
+  Still to personalize:
+    • LinkedIn / X / Facebook / Portfolio URLs (bottom of file)
+    • Featured project repo names (project-one/two/three/four)
+    • Once you self-host github-readme-stats, replace YOUR-GRS-DOMAIN.vercel.app
 ======================================================================
 -->
 
 <!-- =============== HERO BANNER =============== -->
 
-<a href="https://github.com/atikur-rahman">
+<a href="https://github.com/aratik1997">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20,24,30&height=260&section=header&text=Atikur%20Rahman&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20System%20Designer&descAlignY=60&descSize=18" alt="header banner" width="100%" />
 </a>
 
 <!-- =============== TYPING BANNER =============== -->
 
 <div align="center">
-  <a href="https://github.com/atikur-rahman">
+  <a href="https://github.com/aratik1997">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&multiline=false&width=780&height=60&lines=Building+secure%2C+scalable+web+applications;Backend-focused+Full-Stack+Engineer;Database+design+%7C+REST+APIs+%7C+System+architecture;Turning+ideas+into+clean%2C+maintainable+code" alt="typing SVG" />
   </a>
 </div>
@@ -35,8 +29,8 @@
 <!-- =============== TOP BADGES =============== -->
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/atikur-rahman?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" alt="followers" />
-  <img src="https://komarev.com/ghpvc/?username=atikur-rahman&style=for-the-badge&color=22D3EE&labelColor=0D1117&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/aratik1997?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=aratik1997&style=for-the-badge&color=22D3EE&labelColor=0D1117&label=PROFILE+VIEWS" alt="profile views" />
   <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-3B82F6?style=for-the-badge&labelColor=0D1117" alt="open to collab" />
   <img src="https://img.shields.io/badge/FOCUS-FULL--STACK-6366F1?style=for-the-badge&labelColor=0D1117" alt="focus" />
 </div>
@@ -201,37 +195,27 @@
 
 ## 📊 &nbsp;GitHub Stats
 
-<!--
-   github-readme-stats.vercel.app is currently PAUSED (503).
-   Using shields.io badges + streak-stats (Heroku, working) + activity graph.
-   Once you self-host, uncomment SELF-HOSTED block and delete BADGE block.
--->
-
-<!-- === BADGE-BASED STATS (works today) === -->
-
 <div align="center">
 
-  <!-- Row 1: quick facts -->
-  <img src="https://img.shields.io/github/followers/atikur-rahman?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/atikur-rahman?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6&label=TOTAL+STARS" />
-  <img src="https://img.shields.io/github/search/atikur-rahman/repo?query=&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=3B82F6&label=PUBLIC+REPOS" />
+  <img src="https://img.shields.io/github/followers/aratik1997?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/aratik1997?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6&label=TOTAL+STARS" />
+  <img src="https://img.shields.io/github/search/aratik1997/repo?query=&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=3B82F6&label=PUBLIC+REPOS" />
 
   <br /><br />
 
-  <!-- Streak stats (Heroku - working) -->
-  <a href="https://github.com/atikur-rahman">
-    <img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=atikur-rahman&hide_border=true&background=0D1117&stroke=8B5CF6&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" alt="streak" />
+  <a href="https://github.com/aratik1997">
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=aratik1997&hide_border=true&background=0D1117&stroke=8B5CF6&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" alt="streak" />
   </a>
 
 </div>
 
 <!-- === SELF-HOSTED STATS (uncomment after you deploy your own Vercel) ===
 <div align="center">
-  <a href="https://github.com/atikur-rahman">
-    <img height="180" src="https://YOUR-GRS-DOMAIN.vercel.app/api?username=atikur-rahman&show_icons=true&count_private=true&hide_border=true&title_color=22D3EE&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117&include_all_commits=true&rank_icon=github" alt="stats" />
+  <a href="https://github.com/aratik1997">
+    <img height="180" src="https://YOUR-GRS-DOMAIN.vercel.app/api?username=aratik1997&show_icons=true&count_private=true&hide_border=true&title_color=22D3EE&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117&include_all_commits=true&rank_icon=github" alt="stats" />
   </a>
-  <a href="https://github.com/atikur-rahman">
-    <img height="180" src="https://YOUR-GRS-DOMAIN.vercel.app/api/top-langs/?username=atikur-rahman&layout=compact&hide_border=true&title_color=22D3EE&text_color=E5E7EB&bg_color=0D1117&langs_count=10" alt="top languages" />
+  <a href="https://github.com/aratik1997">
+    <img height="180" src="https://YOUR-GRS-DOMAIN.vercel.app/api/top-langs/?username=aratik1997&layout=compact&hide_border=true&title_color=22D3EE&text_color=E5E7EB&bg_color=0D1117&langs_count=10" alt="top languages" />
   </a>
 </div>
 === END SELF-HOSTED STATS === -->
@@ -241,22 +225,20 @@
 ### 📈 &nbsp;Contribution Activity Graph
 
 <div align="center">
-  <a href="https://github.com/atikur-rahman">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=atikur-rahman&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=A855F7&area=true&hide_border=true&custom_title=Contribution+Graph" alt="activity graph" width="100%" />
+  <a href="https://github.com/aratik1997">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aratik1997&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=A855F7&area=true&hide_border=true&custom_title=Contribution+Graph" alt="activity graph" width="100%" />
   </a>
 </div>
 
 <br />
 
-<!-- =============== CONTRIBUTION SNAKE =============== -->
-
 ### 🐍 &nbsp;Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atikur-rahman/atikur-rahman/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atikur-rahman/atikur-rahman/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/atikur-rahman/atikur-rahman/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aratik1997/aratik1997/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aratik1997/aratik1997/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/aratik1997/aratik1997/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -270,16 +252,11 @@
 
 ## 📌 &nbsp;Featured Projects
 
-<!--
-   Pin cards from github-readme-stats are currently down.
-   Using a custom card design that always renders.
--->
-
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/atikur-rahman/project-one">Full-Stack SaaS Platform</a>
+        <a href="https://github.com/aratik1997/project-one">Full-Stack SaaS Platform</a>
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -291,14 +268,14 @@
         <sub>Multi-tenant SaaS with auth, billing, role-based access, and REST + realtime APIs.</sub>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/atikur-rahman/project-one?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
-        <img src="https://img.shields.io/github/forks/atikur-rahman/project-one?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
-        <img src="https://img.shields.io/github/last-commit/atikur-rahman/project-one?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
+        <img src="https://img.shields.io/github/stars/aratik1997/project-one?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
+        <img src="https://img.shields.io/github/forks/aratik1997/project-one?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
+        <img src="https://img.shields.io/github/last-commit/aratik1997/project-one?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/atikur-rahman/project-two">REST API Framework</a>
+        <a href="https://github.com/aratik1997/project-two">REST API Framework</a>
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -310,16 +287,16 @@
         <sub>Modular Laravel starter with rate limiting, JWT, OpenAPI docs, and clean architecture.</sub>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/atikur-rahman/project-two?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
-        <img src="https://img.shields.io/github/forks/atikur-rahman/project-two?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
-        <img src="https://img.shields.io/github/last-commit/atikur-rahman/project-two?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
+        <img src="https://img.shields.io/github/stars/aratik1997/project-two?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
+        <img src="https://img.shields.io/github/forks/aratik1997/project-two?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
+        <img src="https://img.shields.io/github/last-commit/aratik1997/project-two?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/atikur-rahman/project-three">Realtime Dashboard</a>
+        <a href="https://github.com/aratik1997/project-three">Realtime Dashboard</a>
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -331,14 +308,14 @@
         <sub>Live metrics dashboard with JWT auth, WebSocket streams, and chart-driven analytics.</sub>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/atikur-rahman/project-three?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
-        <img src="https://img.shields.io/github/forks/atikur-rahman/project-three?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
-        <img src="https://img.shields.io/github/last-commit/atikur-rahman/project-three?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
+        <img src="https://img.shields.io/github/stars/aratik1997/project-three?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
+        <img src="https://img.shields.io/github/forks/aratik1997/project-three?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
+        <img src="https://img.shields.io/github/last-commit/aratik1997/project-three?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/atikur-rahman/project-four">Cross-Platform Mobile App</a>
+        <a href="https://github.com/aratik1997/project-four">Cross-Platform Mobile App</a>
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -349,9 +326,9 @@
         <sub>Offline-first mobile app with push notifications and clean architecture.</sub>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/atikur-rahman/project-four?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
-        <img src="https://img.shields.io/github/forks/atikur-rahman/project-four?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
-        <img src="https://img.shields.io/github/last-commit/atikur-rahman/project-four?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
+        <img src="https://img.shields.io/github/stars/aratik1997/project-four?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
+        <img src="https://img.shields.io/github/forks/aratik1997/project-four?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
+        <img src="https://img.shields.io/github/last-commit/aratik1997/project-four?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
       </p>
     </td>
   </tr>
@@ -494,22 +471,22 @@
 ## 📬 &nbsp;Let's Connect
 
 <div align="center">
-  <a href="mailto:atikur@example.com">
+  <a href="mailto:ar.atik1997@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://linkedin.com/in/atikur-rahman">
+  <a href="https://linkedin.com/in/aratik1997">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://github.com/atikur-rahman">
+  <a href="https://github.com/aratik1997">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://twitter.com/atikur_rahman">
+  <a href="https://twitter.com/aratik1997">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://facebook.com/atikur.rahman">
+  <a href="https://facebook.com/aratik1997">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://atikur-rahman.dev">
+  <a href="https://aratik1997.dev">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
   </a>
   <br /><br />
@@ -520,10 +497,10 @@
 <br />
 
 <div align="center">
-  <a href="https://buymeacoffee.com/atikur-rahman">
+  <a href="https://buymeacoffee.com/aratik1997">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0D1117" />
   </a>
-  <a href="https://ko-fi.com/atikur-rahman">
+  <a href="https://ko-fi.com/aratik1997">
     <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=0D1117" />
   </a>
 </div>
@@ -537,7 +514,7 @@
 <div align="center">
   <sub>
     Crafted with care by <b>Atikur Rahman</b> &nbsp;·&nbsp;
-    <a href="https://github.com/atikur-rahman">github.com/atikur-rahman</a>
+    <a href="https://github.com/aratik1997">github.com/aratik1997</a>
     <br />
     <i>"Code is poetry written for machines and read by humans."</i>
   </sub>
