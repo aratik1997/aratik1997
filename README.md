@@ -8,9 +8,11 @@
     • project-one/two/three/four → real pinned repo names
     • email / linkedin / x / facebook / portfolio URLs in "Let's Connect"
 
-  The stats, streak, top-langs, activity graph, trophies, and pin cards
-  will all render broken until the username above is real, because
-  those services return an "error" image for non-existent users.
+  NOTE:  github-readme-stats.vercel.app is currently PAUSED (503).
+         Below I've routed around it. If you later self-host that
+         service on your own Vercel, replace every occurrence of
+         "YOUR-GRS-DOMAIN.vercel.app" with your Vercel domain and
+         uncomment the "SELF-HOSTED STATS" blocks.
 ======================================================================
 -->
 
@@ -33,19 +35,13 @@
 <!-- =============== TOP BADGES =============== -->
 
 <div align="center">
-  <a href="https://github.com/atikur-rahman?tab=followers">
-    <img src="https://img.shields.io/github/followers/atikur-rahman?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" alt="followers" />
-  </a>
+  <img src="https://img.shields.io/github/followers/atikur-rahman?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" alt="followers" />
   <img src="https://komarev.com/ghpvc/?username=atikur-rahman&style=for-the-badge&color=22D3EE&labelColor=0D1117&label=PROFILE+VIEWS" alt="profile views" />
-  <a href="https://github.com/atikur-rahman?tab=repositories">
-    <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-3B82F6?style=for-the-badge&labelColor=0D1117" alt="open to collab" />
-  </a>
+  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-3B82F6?style=for-the-badge&labelColor=0D1117" alt="open to collab" />
   <img src="https://img.shields.io/badge/FOCUS-FULL--STACK-6366F1?style=for-the-badge&labelColor=0D1117" alt="focus" />
 </div>
 
 <br />
-
-<!-- =============== SEPARATOR =============== -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-4feb3dfbd3fb.gif" width="100%" alt="separator" />
@@ -96,8 +92,6 @@
 </div>
 
 <br />
-
-<!-- =============== SEPARATOR =============== -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-4feb3dfbd3fb.gif" width="100%" alt="separator" />
@@ -199,8 +193,6 @@
 
 <br />
 
-<!-- =============== SEPARATOR =============== -->
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-4feb3dfbd3fb.gif" width="100%" alt="separator" />
 </div>
@@ -209,20 +201,40 @@
 
 ## 📊 &nbsp;GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/atikur-rahman">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=atikur-rahman&show_icons=true&count_private=true&hide_border=true&title_color=22D3EE&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117&include_all_commits=true&rank_icon=github" alt="stats" />
-  </a>
-  <a href="https://github.com/atikur-rahman">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=atikur-rahman&hide_border=true&background=0D1117&stroke=8B5CF6&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" alt="streak" />
-  </a>
-</div>
+<!--
+   github-readme-stats.vercel.app is currently PAUSED (503).
+   Using shields.io badges + streak-stats (Heroku, working) + activity graph.
+   Once you self-host, uncomment SELF-HOSTED block and delete BADGE block.
+-->
+
+<!-- === BADGE-BASED STATS (works today) === -->
 
 <div align="center">
+
+  <!-- Row 1: quick facts -->
+  <img src="https://img.shields.io/github/followers/atikur-rahman?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/atikur-rahman?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6&label=TOTAL+STARS" />
+  <img src="https://img.shields.io/github/search/atikur-rahman/repo?query=&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=3B82F6&label=PUBLIC+REPOS" />
+
+  <br /><br />
+
+  <!-- Streak stats (Heroku - working) -->
   <a href="https://github.com/atikur-rahman">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikur-rahman&layout=compact&hide_border=true&title_color=22D3EE&text_color=E5E7EB&bg_color=0D1117&langs_count=10" alt="top languages" />
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=atikur-rahman&hide_border=true&background=0D1117&stroke=8B5CF6&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" alt="streak" />
+  </a>
+
+</div>
+
+<!-- === SELF-HOSTED STATS (uncomment after you deploy your own Vercel) ===
+<div align="center">
+  <a href="https://github.com/atikur-rahman">
+    <img height="180" src="https://YOUR-GRS-DOMAIN.vercel.app/api?username=atikur-rahman&show_icons=true&count_private=true&hide_border=true&title_color=22D3EE&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117&include_all_commits=true&rank_icon=github" alt="stats" />
+  </a>
+  <a href="https://github.com/atikur-rahman">
+    <img height="180" src="https://YOUR-GRS-DOMAIN.vercel.app/api/top-langs/?username=atikur-rahman&layout=compact&hide_border=true&title_color=22D3EE&text_color=E5E7EB&bg_color=0D1117&langs_count=10" alt="top languages" />
   </a>
 </div>
+=== END SELF-HOSTED STATS === -->
 
 <br />
 
@@ -231,16 +243,6 @@
 <div align="center">
   <a href="https://github.com/atikur-rahman">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=atikur-rahman&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=A855F7&area=true&hide_border=true&custom_title=Contribution+Graph" alt="activity graph" width="100%" />
-  </a>
-</div>
-
-<br />
-
-### 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/atikur-rahman">
-    <img src="https://github-profile-trophy.vercel.app/?username=atikur-rahman&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
   </a>
 </div>
 
@@ -260,8 +262,6 @@
 
 <br />
 
-<!-- =============== SEPARATOR =============== -->
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-4feb3dfbd3fb.gif" width="100%" alt="separator" />
 </div>
@@ -270,59 +270,94 @@
 
 ## 📌 &nbsp;Featured Projects
 
-<div align="center">
-  <a href="https://github.com/atikur-rahman/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikur-rahman&repo=project-one&hide_border=true&title_color=22D3EE&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117" alt="project one" />
-  </a>
-  <a href="https://github.com/atikur-rahman/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikur-rahman&repo=project-two&hide_border=true&title_color=22D3EE&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117" alt="project two" />
-  </a>
-  <br /><br />
-  <a href="https://github.com/atikur-rahman/project-three">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikur-rahman&repo=project-three&hide_border=true&title_color=22D3EE&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117" alt="project three" />
-  </a>
-  <a href="https://github.com/atikur-rahman/project-four">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atikur-rahman&repo=project-four&hide_border=true&title_color=22D3EE&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117" alt="project four" />
-  </a>
-</div>
-
-<br />
+<!--
+   Pin cards from github-readme-stats are currently down.
+   Using a custom card design that always renders.
+-->
 
 <table align="center" width="100%">
-  <thead>
-    <tr>
-      <th align="left">Project</th>
-      <th align="left">Stack</th>
-      <th align="left">Highlights</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Full-Stack SaaS Platform</b></td>
-      <td>Next.js · Node.js · PostgreSQL · Redis</td>
-      <td>Auth, billing, role-based access, REST + realtime</td>
-    </tr>
-    <tr>
-      <td><b>REST API Framework</b></td>
-      <td>Laravel · MySQL · Redis</td>
-      <td>Modular architecture, rate limiting, OpenAPI docs</td>
-    </tr>
-    <tr>
-      <td><b>Realtime Dashboard</b></td>
-      <td>React · Express · MongoDB · WebSockets</td>
-      <td>Live metrics, JWT auth, chart-driven analytics</td>
-    </tr>
-    <tr>
-      <td><b>Cross-Platform Mobile App</b></td>
-      <td>Flutter · Dart · Supabase</td>
-      <td>Offline-first, push notifications, clean architecture</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/atikur-rahman/project-one">Full-Stack SaaS Platform</a>
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      </p>
+      <p align="center">
+        <sub>Multi-tenant SaaS with auth, billing, role-based access, and REST + realtime APIs.</sub>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/atikur-rahman/project-one?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
+        <img src="https://img.shields.io/github/forks/atikur-rahman/project-one?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
+        <img src="https://img.shields.io/github/last-commit/atikur-rahman/project-one?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/atikur-rahman/project-two">REST API Framework</a>
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
+      </p>
+      <p align="center">
+        <sub>Modular Laravel starter with rate limiting, JWT, OpenAPI docs, and clean architecture.</sub>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/atikur-rahman/project-two?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
+        <img src="https://img.shields.io/github/forks/atikur-rahman/project-two?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
+        <img src="https://img.shields.io/github/last-commit/atikur-rahman/project-two?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/atikur-rahman/project-three">Realtime Dashboard</a>
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+      </p>
+      <p align="center">
+        <sub>Live metrics dashboard with JWT auth, WebSocket streams, and chart-driven analytics.</sub>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/atikur-rahman/project-three?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
+        <img src="https://img.shields.io/github/forks/atikur-rahman/project-three?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
+        <img src="https://img.shields.io/github/last-commit/atikur-rahman/project-three?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/atikur-rahman/project-four">Cross-Platform Mobile App</a>
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+      <p align="center">
+        <sub>Offline-first mobile app with push notifications and clean architecture.</sub>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/atikur-rahman/project-four?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
+        <img src="https://img.shields.io/github/forks/atikur-rahman/project-four?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
+        <img src="https://img.shields.io/github/last-commit/atikur-rahman/project-four?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 <br />
-
-<!-- =============== SEPARATOR =============== -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-4feb3dfbd3fb.gif" width="100%" alt="separator" />
@@ -435,8 +470,6 @@
 </table>
 
 <br />
-
-<!-- =============== SEPARATOR =============== -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-4feb3dfbd3fb.gif" width="100%" alt="separator" />
