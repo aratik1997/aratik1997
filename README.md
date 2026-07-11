@@ -1,3 +1,7 @@
+<div align="center">
+  <sub>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</sub>
+</div>
+
 <!--
 ======================================================================
   ATIKUR RAHMAN  ·  github.com/aratik1997
@@ -358,9 +362,18 @@
 ## 💭 &nbsp;Words of Wisdom
 
 <div align="center">
-  <!-- QUOTE:START -->
-  <i>"The purpose of knowledge is action, not the accumulation of more knowledge." — Imam Al-Ghazali</i>
-  <!-- QUOTE:END -->
+  <table>
+    <tr>
+      <td align="center" width="640">
+        <br />
+        <sub>📖</sub>
+        <!-- QUOTE:START -->
+        <h3><i>"The purpose of knowledge is action, not the accumulation of more knowledge."</i></h3>
+        <p><b>— Imam Al-Ghazali</b></p>
+        <!-- QUOTE:END -->
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />

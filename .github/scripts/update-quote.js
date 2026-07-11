@@ -29,7 +29,7 @@ const dayOfYear = Math.floor(
 );
 const quote = QUOTES[dayOfYear % QUOTES.length];
 
-const block = `${startMarker}\n  <i>"${quote.text}" — ${quote.author}</i>\n  ${endMarker}`;
+const block = `${startMarker}\n        <h3><i>"${quote.text}"</i></h3>\n        <p><b>— ${quote.author}</b></p>\n        ${endMarker}`;
 
 const before = readme.slice(0, startIdx);
 const after = readme.slice(endIdx + endMarker.length);
