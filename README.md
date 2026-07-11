@@ -3,10 +3,9 @@
   ATIKUR RAHMAN  ·  github.com/aratik1997
   Palette: Blue · Cyan · Purple · Black
 
-  Still to personalize:
-    • LinkedIn / X / Facebook / Portfolio URLs (bottom of file)
-    • Featured project repo names (project-one/two/three/four)
-    • Once you self-host github-readme-stats, replace YOUR-GRS-DOMAIN.vercel.app
+  Still to personalize (optional):
+    • LinkedIn / X / Facebook / Portfolio / Buy-me-a-coffee URLs
+    • Once you self-host github-readme-stats, uncomment SELF-HOSTED block
 ======================================================================
 -->
 
@@ -197,12 +196,6 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/github/followers/aratik1997?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/aratik1997?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6&label=TOTAL+STARS" />
-  <img src="https://img.shields.io/github/search/aratik1997/repo?query=&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=3B82F6&label=PUBLIC+REPOS" />
-
-  <br /><br />
-
   <a href="https://github.com/aratik1997">
     <img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=aratik1997&hide_border=true&background=0D1117&stroke=8B5CF6&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" alt="streak" />
   </a>
@@ -241,98 +234,6 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/aratik1997/aratik1997/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-4feb3dfbd3fb.gif" width="100%" alt="separator" />
-</div>
-
-<!-- =============== FEATURED PROJECTS =============== -->
-
-## 📌 &nbsp;Featured Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/aratik1997/project-one">Full-Stack SaaS Platform</a>
-      </h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      </p>
-      <p align="center">
-        <sub>Multi-tenant SaaS with auth, billing, role-based access, and REST + realtime APIs.</sub>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/aratik1997/project-one?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
-        <img src="https://img.shields.io/github/forks/aratik1997/project-one?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
-        <img src="https://img.shields.io/github/last-commit/aratik1997/project-one?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/aratik1997/project-two">REST API Framework</a>
-      </h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
-      </p>
-      <p align="center">
-        <sub>Modular Laravel starter with rate limiting, JWT, OpenAPI docs, and clean architecture.</sub>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/aratik1997/project-two?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
-        <img src="https://img.shields.io/github/forks/aratik1997/project-two?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
-        <img src="https://img.shields.io/github/last-commit/aratik1997/project-two?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/aratik1997/project-three">Realtime Dashboard</a>
-      </h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-      </p>
-      <p align="center">
-        <sub>Live metrics dashboard with JWT auth, WebSocket streams, and chart-driven analytics.</sub>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/aratik1997/project-three?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
-        <img src="https://img.shields.io/github/forks/aratik1997/project-three?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
-        <img src="https://img.shields.io/github/last-commit/aratik1997/project-three?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/aratik1997/project-four">Cross-Platform Mobile App</a>
-      </h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-      </p>
-      <p align="center">
-        <sub>Offline-first mobile app with push notifications and clean architecture.</sub>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/aratik1997/project-four?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" />
-        <img src="https://img.shields.io/github/forks/aratik1997/project-four?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" />
-        <img src="https://img.shields.io/github/last-commit/aratik1997/project-four?style=flat-square&logo=git&logoColor=white&labelColor=0D1117&color=3B82F6" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 <br />
 
@@ -474,35 +375,12 @@
   <a href="mailto:ar.atik1997@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://linkedin.com/in/aratik1997">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-  </a>
   <a href="https://github.com/aratik1997">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="https://twitter.com/aratik1997">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="https://facebook.com/aratik1997">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="https://aratik1997.dev">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
   </a>
   <br /><br />
   <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-22D3EE?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Available%20for-Full--time%20%7C%20Freelance-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://buymeacoffee.com/aratik1997">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0D1117" />
-  </a>
-  <a href="https://ko-fi.com/aratik1997">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=0D1117" />
-  </a>
 </div>
 
 <br />
