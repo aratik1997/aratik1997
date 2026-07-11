@@ -1,0 +1,28 @@
+name: Rotate Dev Quote
+
+on:
+  # Run once every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Run manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  rotate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update quote in README
+        run: node .github/scripts/update-quote.js
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: rotate dev quote"
+          file_pattern: README.md

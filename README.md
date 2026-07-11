@@ -355,14 +355,12 @@
 
 <!-- =============== QUOTE =============== -->
 
-## 💭 &nbsp;Dev Quote
+## 💭 &nbsp;Words of Wisdom
 
 <div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
-  </a>
-  <br /><br />
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+  <!-- QUOTE:START -->
+  <i>"The purpose of knowledge is action, not the accumulation of more knowledge." — Imam Al-Ghazali</i>
+  <!-- QUOTE:END -->
 </div>
 
 <br />
