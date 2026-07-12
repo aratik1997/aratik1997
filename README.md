@@ -368,8 +368,8 @@
         <br />
         <sub>📖</sub>
         <!-- QUOTE:START -->
-        <h3><i>"The purpose of knowledge is action, not the accumulation of more knowledge."</i></h3>
-        <p><b>— Imam Al-Ghazali</b></p>
+        <h3><i>"The seeker of knowledge is in need of hard striving, sincere effort, and much devotion."</i></h3>
+        <p><b>— Ibn Khaldun</b></p>
         <!-- QUOTE:END -->
       </td>
     </tr>
