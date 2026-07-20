@@ -357,8 +357,8 @@
         <br />
         <sub>📖</sub>
         <!-- QUOTE:START -->
-        <h3><i>"Knowledge is not what is memorized; knowledge is what benefits."</i></h3>
-        <p><b>— Imam Ash-Shafi'i</b></p>
+        <h3><i>"Knowledge is better than wealth. Knowledge protects you; you have to protect wealth."</i></h3>
+        <p><b>— Ali ibn Abi Talib</b></p>
         <!-- QUOTE:END -->
       </td>
     </tr>
