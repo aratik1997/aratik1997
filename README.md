@@ -194,17 +194,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-4feb3dfbd3fb.gif" width="100%" alt="separator" />
 </div>
 
-<!-- =============== GITHUB STATS =============== -->
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-  <a href="https://github.com/aratik1997">
-    <img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=aratik1997&hide_border=true&background=0D1117&stroke=8B5CF6&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" alt="streak" />
-  </a>
-
-</div>
 
 <!-- === SELF-HOSTED STATS (uncomment after you deploy your own Vercel) ===
 <div align="center">
@@ -368,8 +357,8 @@
         <br />
         <sub>📖</sub>
         <!-- QUOTE:START -->
-        <h3><i>"The purpose of knowledge is action, not the accumulation of more knowledge."</i></h3>
-        <p><b>— Imam Al-Ghazali</b></p>
+        <h3><i>"Knowledge is better than wealth. Knowledge protects you; you have to protect wealth."</i></h3>
+        <p><b>— Ali ibn Abi Talib</b></p>
         <!-- QUOTE:END -->
       </td>
     </tr>
