@@ -1,0 +1,430 @@
+{
+    "profile": {
+        "name": "Mohammed Atikur Rahman",
+        "title": "Full-Stack Backend Specialist",
+        "phone": "+8801746048080",
+        "email": "ar.atik1997@gmail.com",
+        "address": "Sector 18, Uttara, Dhaka-1230",
+        "about": "I am a dedicated backend developer with one year of professional experience, specializing in efficient problem-solving, database management, and security updates. Known for my sincerity and quick, effective solutions.",
+        "photo": "assets/img/atik.jpg"
+    },
+    "social": {
+        "github": "https://github.com/aratik1997",
+        "facebook": "https://www.facebook.com/atikvai97/",
+        "instagram": "https://www.instagram.com/atik_97/",
+        "linkedin": "https://www.linkedin.com/in/atikur-rahman-dev",
+        "x": "https://x.com/ArAtik1997",
+        "threads": "https://www.threads.com/@atik_97",
+        "whatsapp": "+8801746048080",
+        "wechat": "+8801746048080",
+        "xbox": "",
+        "psn": "",
+        "steam": ""
+    },
+    "education": [
+        {
+            "degree": "Dakhil",
+            "school": "Daulatganj Gazimura Kamil Madrasah",
+            "period": "2017",
+            "grade": "GPA 4.22",
+            "url": ""
+        },
+        {
+            "degree": "HSC",
+            "school": "Eminence College",
+            "period": "2017 - 2019",
+            "grade": "GPA 3.92",
+            "url": ""
+        },
+        {
+            "degree": "Undergraduate",
+            "school": "North South University",
+            "period": "2020 - Present",
+            "grade": "",
+            "url": "https://www.northsouth.edu"
+        }
+    ],
+    "experience": [
+        {
+            "role": "Backend Developer",
+            "company": "8 Bit (Pvt) Limited",
+            "period": "2024 - Present",
+            "bullets": [
+                "Update all of the company's websites in an efficient, maintainable way.",
+                "Ship security updates that help keep company data and information secure.",
+                "Maintain the company's database, server, and other information sources."
+            ]
+        }
+    ],
+    "skills": [
+        "Security Updates",
+        "Database Manipulation",
+        "Problem Solving",
+        "Backend Coding",
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "Excel Expertise"
+    ],
+    "skillProgress": [
+        {
+            "label": "Backend Engineering",
+            "percent": 90
+        },
+        {
+            "label": "REST API Development",
+            "percent": 88
+        },
+        {
+            "label": "Database Design",
+            "percent": 85
+        },
+        {
+            "label": "System Design",
+            "percent": 78
+        },
+        {
+            "label": "Frontend (React / Next.js)",
+            "percent": 82
+        },
+        {
+            "label": "Mobile (Flutter / Dart)",
+            "percent": 75
+        },
+        {
+            "label": "Cloud & DevOps",
+            "percent": 70
+        },
+        {
+            "label": "Machine Learning",
+            "percent": 65
+        }
+    ],
+    "projects": [
+        {
+            "name": "poker",
+            "description": "Multiplayer Texas Hold'em poker for 2-8 players — PHP + MySQL + vanilla JS, runs on stock XAMPP. Host controls, live chat, spectator mode, sound effects, and a full side-pot betting engine.",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/poker",
+            "website": "https://tong-mama.com/poker",
+            "image": "assets/img/poker.png",
+            "category": "games",
+            "private": false
+        },
+        {
+            "name": "twentynine",
+            "description": "Real-time multiplayer web app for 29 (Twenty-Nine), the classic South Asian trick-taking card game — 4-player fixed partnerships plus a configurable 3-player variant. Secret trump, bidding, live table with chat & sound.",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/twentynine",
+            "website": "https://tong-mama.com/twentynine",
+            "image": "assets/img/twentynine.png",
+            "category": "games",
+            "private": false
+        },
+        {
+            "name": "uno",
+            "description": "Play UNO with friends in your browser — self-hosted PHP/MySQL multiplayer table, no signup, no build step.",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/uno",
+            "website": "https://tong-mama.com/uno",
+            "image": "assets/img/uno.png",
+            "category": "games",
+            "private": false
+        },
+        {
+            "name": "tongmama",
+            "description": "A self-hosted browser game hub (PHP + vanilla JS, no build step) featuring Reflex Cricket, Go Fish, and Kolshi (Yaniv), each playable solo, pass-and-play, or online in real time.",
+            "language": "HTML",
+            "url": "https://github.com/aratik1997/tongmama",
+            "website": "https://tong-mama.com",
+            "image": "assets/img/tongmama.png",
+            "category": "games",
+            "private": false
+        },
+        {
+            "name": "gofish",
+            "description": "Real-time online Go Fish for 2-6 players — PHP + SQLite backend, polling sync, pond-themed table, no build step required.",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/gofish",
+            "website": "https://tong-mama.com/gofish",
+            "image": "assets/img/gofish.png",
+            "category": "games",
+            "private": false
+        },
+        {
+            "name": "callshow",
+            "description": "Kolshi — a browser-based multiplayer card game (Yaniv rules with a custom Call/Show mechanic) on plain PHP + MySQL. Real-time-feeling play over polling, with chat, a taunt bell, host moderation, and a turn timer.",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/callshow",
+            "website": "https://tong-mama.com/callshow",
+            "image": "assets/img/callshow.png",
+            "category": "games",
+            "private": false
+        },
+        {
+            "name": "cricket",
+            "description": "A browser cricket game where batting is a reflex timing challenge — freeze a millisecond stopwatch and the digit decides your fate. Single Player, Same-Screen & Online Multiplayer, plus a full single-player World Cup.",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/cricket",
+            "website": "https://tong-mama.com/cricket",
+            "image": "assets/img/cricket.png",
+            "category": "games",
+            "private": false
+        },
+        {
+            "name": "8bit",
+            "description": "Company website for 8 Bit (Pvt) Limited.",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/8bit",
+            "website": "https://8bit.com.bd",
+            "image": "assets/img/8bit.png",
+            "category": "client",
+            "private": false
+        },
+        {
+            "name": "abarjigay",
+            "description": "",
+            "language": "HTML",
+            "url": "https://github.com/aratik1997/abarjigay",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "alwawah",
+            "description": "Business website built and maintained for a client.",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/alwawah",
+            "website": "https://alwawah.com",
+            "image": "assets/img/alwawah.png",
+            "category": "client",
+            "private": false
+        },
+        {
+            "name": "ashikvaia",
+            "description": "",
+            "language": "CSS",
+            "url": "https://github.com/aratik1997/ashikvaia",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "aura",
+            "description": "",
+            "language": "Kotlin",
+            "url": "https://github.com/aratik1997/aura",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "ayeshafoundation",
+            "description": "",
+            "language": "CSS",
+            "url": "https://github.com/aratik1997/ayeshafoundation",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "bhaiyagroup",
+            "description": "",
+            "language": "HTML",
+            "url": "https://github.com/aratik1997/bhaiyagroup",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "bhaiyawebsite",
+            "description": "",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/bhaiyawebsite",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "bikkubikku",
+            "description": "",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/bikkubikku",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "cse482summer2026",
+            "description": "",
+            "language": "HTML",
+            "url": "https://github.com/aratik1997/cse482summer2026",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "cse483class7",
+            "description": "",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/cse483class7",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "dainikbanglakagoj",
+            "description": "",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/dainikbanglakagoj",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "fourplayercard",
+            "description": "",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/fourplayercard",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "FutureElectronicsBD",
+            "description": "",
+            "language": "HTML",
+            "url": "https://github.com/aratik1997/FutureElectronicsBD",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "kathpencil",
+            "description": "",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/kathpencil",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "Khandanilegacy",
+            "description": "",
+            "language": "HTML",
+            "url": "https://github.com/aratik1997/Khandanilegacy",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "loginpage",
+            "description": "",
+            "language": "Hack",
+            "url": "https://github.com/aratik1997/loginpage",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "octate",
+            "description": "",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/octate",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "Project",
+            "description": "",
+            "language": "HTML",
+            "url": "https://github.com/aratik1997/Project",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "provatiexpress",
+            "description": "",
+            "language": "HTML",
+            "url": "https://github.com/aratik1997/provatiexpress",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        },
+        {
+            "name": "teriyakiboyz",
+            "description": "",
+            "language": "PHP",
+            "url": "https://github.com/aratik1997/teriyakiboyz",
+            "website": "",
+            "image": "",
+            "category": "",
+            "private": true
+        }
+    ],
+    "gaming": {
+        "intro": "Off the clock, I'm usually on a controller or a keyboard.",
+        "games": [
+            "Valorant",
+            "GTA V",
+            "PUBG",
+            "Roblox",
+            "EA FC",
+            "Forza Horizon",
+            "NFS",
+            "Age of Mythology"
+        ],
+        "platforms": [
+            {
+                "name": "Xbox",
+                "tag": "POINIKDADA"
+            },
+            {
+                "name": "PlayStation",
+                "tag": "POINIKDADA"
+            },
+            {
+                "name": "Steam",
+                "tag": "atikvai97"
+            }
+        ]
+    },
+    "hobbies": [
+        "Playing Games",
+        "Coding",
+        "Traveling",
+        "Movies"
+    ],
+    "travel": {
+        "intro": "I like to travel a lot — here's where I've been so far.",
+        "visited": [
+            "BD",
+            "IN",
+            "MY",
+            "SA",
+            "AE",
+            "SG",
+            "TH"
+        ]
+    }
+}
