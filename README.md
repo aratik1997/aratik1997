@@ -357,8 +357,8 @@
         <br />
         <sub>📖</sub>
         <!-- QUOTE:START -->
-        <h3><i>"Seek knowledge, and along with it acquire tranquillity and dignity."</i></h3>
-        <p><b>— Umar ibn Al-Khattab</b></p>
+        <h3><i>"Knowledge is not what is memorized; knowledge is what benefits."</i></h3>
+        <p><b>— Imam Ash-Shafi'i</b></p>
         <!-- QUOTE:END -->
       </td>
     </tr>
