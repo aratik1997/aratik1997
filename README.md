@@ -357,8 +357,8 @@
         <br />
         <sub>📖</sub>
         <!-- QUOTE:START -->
-        <h3><i>"Knowledge is better than wealth. Knowledge protects you; you have to protect wealth."</i></h3>
-        <p><b>— Ali ibn Abi Talib</b></p>
+        <h3><i>"The purpose of knowledge is action, not the accumulation of more knowledge."</i></h3>
+        <p><b>— Imam Al-Ghazali</b></p>
         <!-- QUOTE:END -->
       </td>
     </tr>
