@@ -357,8 +357,8 @@
         <br />
         <sub>📖</sub>
         <!-- QUOTE:START -->
-        <h3><i>"The seeker of knowledge is in need of hard striving, sincere effort, and much devotion."</i></h3>
-        <p><b>— Ibn Khaldun</b></p>
+        <h3><i>"Seek knowledge, and along with it acquire tranquillity and dignity."</i></h3>
+        <p><b>— Umar ibn Al-Khattab</b></p>
         <!-- QUOTE:END -->
       </td>
     </tr>
